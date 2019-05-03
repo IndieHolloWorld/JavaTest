@@ -1,2 +1,0 @@
-# JavaTest
-JavaSE
